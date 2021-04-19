@@ -15,7 +15,7 @@
 
 
 
-**Model Desgin**
+**Model Design**
 
 
 
