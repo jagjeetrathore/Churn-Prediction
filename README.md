@@ -4,7 +4,7 @@
 
 
 **Churn**
-* Cancelation of Subscription
+* Cancellation of Subscription
 * Closure of an active account
 * End of relationship between Subscriber and provider
  
