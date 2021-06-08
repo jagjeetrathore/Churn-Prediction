@@ -34,7 +34,8 @@
 * Handling imbalanced dataset with  various SMOTE (oversampling and undersampling Techniques) Techniques were applied on various machine learning model like Logistic Regression, Decision Tree and RandomForest 
  
 `SMOTE is an oversampling method that balances imbalanced datasets by sampling (with replacement) minority class.` SMOTE-NC stands for Synthetic Minority Over-sampling TEchnique for data with Numerical-Categorical features. Note that only training data is oversampled. The testing data is untouched.
-*Hyperparameter Tuning*
+
+**Hyperparameter Tuning*
  
 max_depth controls the depth of the tree in Random Forest.
 Change the number of variables that are sampled at each split. 
